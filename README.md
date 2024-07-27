@@ -1,2 +1,3 @@
 # Inventory-Optimization-Model-
-Optimized inventory management using Excel and R, developing decision models to reduce total cost
+
+Developed a decision model for inventory management optimization using Excel and R, analyzing a key engine component with 15,000 units of annual demand. Implemented mathematical modelling to minimize total inventory costs, identifying an optimal order quantity of 9 orders per year, and reducing total costs to $31,068. Conducted sensitivity analysis using two-way tables to assess cost impacts of varying parameters. Performed Monte Carlo simulation with 1,000 iterations, estimating expected minimum total cost ($107,306.90 ± $10,756.70) and average order quantity (7,474.85 ± 751.26 units) with 95% confidence intervals, enhancing decision-making under uncertainty.
